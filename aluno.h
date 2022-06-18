@@ -26,11 +26,5 @@
     int			imprime_alunos(struct Aluno *aluno, int num, int ord);
     char *		tira_newline(char *str);
 
-    // Funções 'principais', chamadas a partir do menu
-    void inscrever(void);
-    void anular(void);
-    void gravar(void);
-    void listagem(void);
-    void propinas(void);
-    void sair(void);
+  
 #endif
